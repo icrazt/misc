@@ -27,6 +27,10 @@
 
     ![](assets/img/2024-01-17-13-45-28.png)
 
+5. 完成后可以隐藏物体
+
+    ![](assets/img/2024-01-17-13-55-00.png)
+
 ## ObjectWorldFix
 
 预制件位置：Assets/crazt/MA/attachs/ObjectWorldFix/ObjectWorldFix.prefab
