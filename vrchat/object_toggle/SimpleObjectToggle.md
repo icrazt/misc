@@ -10,7 +10,7 @@
 
     ![](assets/img/2024-01-17-13-22-41.png)
 
-2. 选择 Object 需要绑定的位置或骨骼
+2. 选择 Object 需要绑定的位置或骨骼，之后调整 Object 内部的物品大小和偏移来匹配 Avatar
 
     ![](assets/img/2024-01-17-13-26-08.png)
 
@@ -34,6 +34,8 @@
 ## ObjectWorldFix
 
 预制件位置：Assets/crazt/MA/attachs/ObjectWorldFix/ObjectWorldFix.prefab
+
+物品在开关控制的同时，可选择是否固定于世界
 
 使用方法与上述 ObjectToggle 基本相同，区别为骨骼绑定使用父约束
 ![](assets/img/2024-01-17-13-46-40.png)
